@@ -37,7 +37,7 @@ __Part 2__
 2. Procastination is good sometimes.
 3. Never say no to learning new things even though you know it may not workout.
 
-> My bussiness card [Maybe a useful sample for you].
+> Link to my bussiness card [Maybe a useful sample for you].
 <object data="https://github.com/white-hat-vaibhs/Programming-track/blob/master/Business%20card.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/white-hat-vaibhs/Programming-track/blob/master/Business%20card.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/white-hat-vaibhs/Programming-track/blob/master/Business%20card.pdf">Download PDF</a>.</p>
