@@ -10,6 +10,6 @@ __Part 1__
 <p>Day 4: Add CSS stylesheet to website.</p>
 <p>Day 5: Add Javascript to code(If necessary).</p>
 
-**Repeat above workflow until you create a handsome amount of website themes.**
+_Repeat above workflow until you create a handsome amount of website themes._
 
 __Part 2__
