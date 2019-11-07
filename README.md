@@ -13,10 +13,15 @@ __Part 1__
 _Repeat above workflow until you create a handsome amount of website themes._
 
 __Part 2__
-<p>Day 1: Create an E commerce store. </p>
+<p>Day 1: Create an E-commerce store. </p>
 <p>Day 2: Back end and Payment integration.</p>
 <p>Day 3: SEO and marketing.</p>
 <p>Day 4: Promotion and Instagram advertisement with bot scripts.</p>
 <p>Day 5: Creation of Bussiness goodies like cards and flyers.</p>
 
 >Tips for branding
+```
+Create a logo.
+Get a specified font that you use everywhere.
+Create a mailing system to receive form data. Eg. info@vaibhavsoni.tech 
+```
