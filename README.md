@@ -1,6 +1,10 @@
 
-<h1>Startup Model </h1>  
- __Part 1__
+#Startup workflow
+
+
+__Part 1__
+
+   
 <p>Day 1: Learn Markdown Language.</p>
 <p>Day 2: Create Adobe XD design for website template.</p>
 <p>Day 3: Code HTML skeleton website.</p>
