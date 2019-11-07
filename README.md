@@ -13,6 +13,8 @@ __Part 1__
 _Repeat above workflow until you create a handsome amount of website themes._
 
 >Genres of website theme and type:
+
+
 |Genre | Type |
 |Music |Single page |
 |Artist | Single page |
