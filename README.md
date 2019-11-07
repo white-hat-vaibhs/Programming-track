@@ -1,6 +1,5 @@
 
-#Startup workflow
-
+<h1>Startup workflow</h1>
 
 __Part 1__
 
@@ -10,6 +9,7 @@ __Part 1__
 <p>Day 3: Code HTML skeleton website.</p>
 <p>Day 4: Add CSS stylesheet to website.</p>
 <p>Day 5: Add Javascript to code(If necessary).</p>
-*Repeat above workflow until you create a handsome amount of website themes.*
+
+**Repeat above workflow until you create a handsome amount of website themes.**
 
 __Part 2__
