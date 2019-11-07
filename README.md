@@ -13,3 +13,8 @@ __Part 1__
 _Repeat above workflow until you create a handsome amount of website themes._
 
 __Part 2__
+<p>Day 1: Create an E commerce store </p>
+<p>Day 2: Back end and </p>
+<p>Day 3: Code HTML skeleton website.</p>
+<p>Day 4: Add CSS stylesheet to website.</p>
+<p>Day 5: Add Javascript to code(If necessary).</p>
