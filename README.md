@@ -12,6 +12,13 @@ __Part 1__
 
 _Repeat above workflow until you create a handsome amount of website themes._
 
+>Genres of website theme and type:
+Genre| Type
+Music|Single page
+Artist| Single page
+Techinical Product| Single Page
+Food Store| Multi Page
+
 __Part 2__
 <p>Day 1: Create an E-commerce store. </p>
 <p>Day 2: Back end and Payment integration.</p>
