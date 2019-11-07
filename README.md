@@ -21,7 +21,14 @@ __Part 2__
 
 >Tips for branding
 ```
-Create a logo.
-Get a specified font that you use everywhere.
-Create a mailing system to receive form data. Eg. info@vaibhavsoni.tech 
+1.Create a logo.
+2.Get a specified font that you use everywhere.
+3.Create a mailing system to receive form data. Eg. info@vaibhavsoni.tech 
+```
+
+>Tips for Networking and hosting
+```
+1.Install a SSL certificate as you are adding payment gateway if you dont use SSL certificate API may fail towards completing succesful transations and also will be a security threat to your site leading to expose customers confidential data to Hackers.
+2.Use a cloud Instance to host website and make sure to custmize it the way you want it baased on storage,performance and many other parameters available.
+3.Use a SEO friendly domain name from begining keeping in mind that you will be using this whole life long in case if you generate good amont of traffic and revenue from the site. 
 ```
