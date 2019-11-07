@@ -32,3 +32,10 @@ __Part 2__
 2.Use a cloud Instance to host website and make sure to custmize it the way you want it baased on storage,performance and many other parameters available.
 3.Use a SEO friendly domain name from begining keeping in mind that you will be using this whole life long in case if you generate good amont of traffic and revenue from the site. 
 ```
+>Important tips 
+
+
+
+
+# Hope it helps.  :+1:
+## Created with :heart: from Vaibhav Soni
